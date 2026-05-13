@@ -3,11 +3,11 @@
 <h3 align="center">A Software Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1567712/screenshots/3707847/shot4dribbble.gif">
 
-- 🔭 I’m currently working on **FIGMA , Angular , Unity , Ruby**
+- 🔭 I’m currently working on **Unity**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Model Driven Engineering**
 
-- 💬 Ask me about **Virtual Reality , Augmented Reality and Web Development**
+- 💬 Ask me about **Digital Twins , Virtual Reality , Augmented Reality and Web Development**
 
 - 📫 How to reach me **adhemnaiji@gmail.com**
 
